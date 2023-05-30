@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Game
-comment0.text=\r\n\ This\ program\ simulates\ the\ SPACE\ RPG\ game.\ \r\n\r\n\ @author\ Andrea\ Lan\r\n\ @version\ 5-30-2023\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=min\ max
-comment2.target=int\ userInput(int,\ int)
-numComments=3
