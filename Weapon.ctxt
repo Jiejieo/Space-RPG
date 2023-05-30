@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Weapon
-comment0.text=\r\n\ This\ class\ creates\ the\ Weapon\ object\ and\ stores\ data\ on\ a\ weapon.\r\n
-comment1.params=
-comment1.target=Weapon()
-comment2.params=t\ d\ s
-comment2.target=Weapon(java.lang.String,\ int,\ int)
-numComments=3
